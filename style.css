@@ -25,14 +25,14 @@ div {
 	margin: auto;
 	padding: 50px;
 	background-color: #EEEEEE;
-	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.5);
 }
 
 a {
 	text-decoration: none;
 	color: #00ADB5;
 	display: block;
-	margin: 30px;
+	margin: 35px;
 }
 
 img {
@@ -44,6 +44,7 @@ img {
 }
 h6 {
 	color: #00ADB5;
+	margin: 30px;
 }
 h5 {
 	color: #00ADB5;
